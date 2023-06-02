@@ -1,0 +1,29 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Ignore career websites list file
+career_websites_list.txt
